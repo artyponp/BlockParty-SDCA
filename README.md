@@ -11,3 +11,7 @@ Change deal TP according to SO count.
 ```
 dotnet run -- "Bot name" API_KEY API_SECRET
 ```
+
+## Credits
+
+[3Commas.Net](https://github.com/TheKimono/3Commas.Net)
