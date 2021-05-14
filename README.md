@@ -3,7 +3,7 @@ BlockParty SDCA Bot Utility.
 Change deal TP according to SO count.
 
 ## Installation
-
+.net 5.0 SDK
 [dotnet CLI](https://docs.microsoft.com/en-us/dotnet/core/install/)
 
 ## Usage
