@@ -36,12 +36,14 @@ namespace BlockPartySdca
                 {
 
                     Console.WriteLine($"{deal.BotName} {deal.Pair} SO {deal.CompletedSafetyOrdersCount} TP {deal.TakeProfit}");
-                    if (deal.CompletedSafetyOrdersCount >= 5 && deal.TakeProfit == 0.42m)
+                    if (deal.CompletedSafetyOrdersCount >= 3 && deal.TakeProfit == 0.42m)
                     {
+                        decimal takeProfit = 3;
                         DealUpdateData dealUpdateData = new DealUpdateData(deal.Id)
                         {
-                            TakeProfit = 3
+                            TakeProfit = takeProfit
                         };
+                        Console.WriteLine($"Set take profit {takeProfit}%");
                         await client.UpdateDealAsync(deal.Id, dealUpdateData);
                     }
 
