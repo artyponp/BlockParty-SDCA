@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPT-SDCA", "BPT-SDCA.csproj", "{189CDC9E-1FC1-4919-9E1A-11F050ABBE3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{189CDC9E-1FC1-4919-9E1A-11F050ABBE3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189CDC9E-1FC1-4919-9E1A-11F050ABBE3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189CDC9E-1FC1-4919-9E1A-11F050ABBE3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189CDC9E-1FC1-4919-9E1A-11F050ABBE3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C6B0D2E-9FE1-46F0-A633-A06F6DCC954B}
+	EndGlobalSection
+EndGlobal
