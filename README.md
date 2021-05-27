@@ -7,7 +7,7 @@ Change deal TP according to SO count.
 [dotnet CLI](https://docs.microsoft.com/en-us/dotnet/core/install/)
 
 ## Download
-Binary for [x86](https://github.com/artyponp/BlockParty-SDCA/releases/download/1.0.1/publish_x64.zip) and [macOS](https://github.com/artyponp/BlockParty-SDCA/releases/download/1.0.1/publish_mac.zip)
+Binary for [x64](https://github.com/artyponp/BlockParty-SDCA/releases/download/1.0.1/publish_x64.zip) and [macOS](https://github.com/artyponp/BlockParty-SDCA/releases/download/1.0.1/publish_mac.zip)
 
 ## Usage
 ### Windows
